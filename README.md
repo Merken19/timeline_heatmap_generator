@@ -1,7 +1,9 @@
 # Google Maps Timeline Heatmap Generator
 
 This tool generates a smooth heatmap from your Google Maps timeline JSON data. It aggregates location points into a customizable grid and displays the resulting heatmap using Folium.
-Inspired by geo-heatmap repo from luka1199; https://github.com/luka1199/geo-heatmap.
+Inspired by geo-heatmap repo from luka1199; https://github.com/luka1199/geo-heatmap .
+This is a simple code created for fun, and will not be updated. For more features and support, use https://github.com/kurupted/google-maps-timeline-viewer .
+
 ## Features
 
 - **JSON Data Parsing:** Reads and extracts location data from your Google Maps timeline.
