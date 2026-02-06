@@ -54,3 +54,5 @@ python3 heatmap.py timeline.json -o my_heatmap.html --min-zoom 3 --max-zoom 12 -
 ```
 
 This will create an interactive HTML file (`my_heatmap.html`) that displays your heatmap.
+
+ps. i recommend colormap afmhot
